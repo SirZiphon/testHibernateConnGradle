@@ -33,8 +33,8 @@ import javax.persistence.Table;
  *
  * This class represent the table <code>users</code> of the database
  * 
- * @author SirZiphon <https://github.com/sirziphon>
- * @version 1.0.0
+ * @author SirZiphon {@literal <https://github.com/sirziphon>}
+ * @version 1.0.1
  */
 @Entity
 @Table(name="users")

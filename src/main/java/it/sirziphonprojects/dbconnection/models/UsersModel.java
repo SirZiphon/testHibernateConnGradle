@@ -36,8 +36,8 @@ import org.hibernate.Session;
  * Model class of the entity Users; this class provides all methods to manage the 
  * entity with the database (INSERT, SELECT, DELETE)
  * 
- * @author SirZiphon <https://github.com/sirziphon>
- * @version 1.0.0
+ * @author SirZiphon {@literal <https://github.com/sirziphon>}
+ * @version 1.0.1
  */
 public class UsersModel extends BaseModel<Users, String> {
 

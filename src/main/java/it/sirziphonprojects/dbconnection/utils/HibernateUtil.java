@@ -32,8 +32,8 @@ import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
 /**
  * this class is used to bootstrap hibernate SessionFactory; 
  * 
- * @author SirZiphon <https://github.com/sirziphon>
- * @version 1.0.0
+ * @author SirZiphon {@literal <https://github.com/sirziphon>}
+ * @version 1.0.1
  */
 public class HibernateUtil {
 

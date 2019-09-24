@@ -32,8 +32,8 @@ import org.hibernate.SessionFactory;
  * This class will be used as base for the implementation of all entities models
  * class
  * 
- * @author SirZiphon
- * @version 1.0.0
+ * @author SirZiphon {@literal <https://github.com/sirziphon>}
+ * @version 1.0.1
  * @param <T> the Entity class
  * @param <K> the type of the entity class primary key
  */

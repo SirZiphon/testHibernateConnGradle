@@ -26,8 +26,8 @@ package it.sirziphonprojects.dbconnection.entities;
 /**
  * This interface will be used for group all entity classes
  * 
- * @author SirZiphon <https://github.com/sirziphon>
- * @version 1.0.0
+ * @author SirZiphon {@literal <https://github.com/sirziphon>}
+ * @version 1.0.1
  */
 public interface BaseEntity {
     

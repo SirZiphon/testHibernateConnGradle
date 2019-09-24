@@ -28,8 +28,8 @@ import javax.persistence.metamodel.StaticMetamodel;
 
 /**
  *
- * @author SirZiphon <https://github.com/sirziphon>
- * @version 1.0.0
+ * @author SirZiphon {@literal <https://github.com/sirziphon>}
+ * @version 1.0.1
  */
 @StaticMetamodel(Users.class)
 public class Users_ {
